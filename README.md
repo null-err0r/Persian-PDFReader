@@ -8,3 +8,6 @@ pip install -r requirements.txt
 
 
 ⭐️ لطف کنید اگر پسندیدید ستاره دادن به پروژه را فراموش نکنید!
+
+
+![Repo Badge](https://visitor-badge.laobi.icu/badge?page_id=null-err0r.Persian-PDFReader) 
